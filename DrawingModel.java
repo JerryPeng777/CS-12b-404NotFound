@@ -35,13 +35,13 @@ public class DrawingModel {
 			c = new CircleShape();
 			this.add(c);
 
-      c = new RadiusChangingCircle();
-      this.add(c);
+      			c = new RadiusChangingCircle();
+      			this.add(c);
 
-			c = new FrameRadiusCircle();
+			c = new JerryCircle();
 			this.add(c);
 
-			c = new ChangeColor();
+			c = new NicoleCircle();
 			this.add(c);
 
 		}
