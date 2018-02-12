@@ -46,6 +46,12 @@ public class DrawingModel {
 			
 			c = new ChengCircle();
 			this.add(c);
+			
+			c = new FrandkCircle();
+			this.add(c);
+			
+			c = new RCircle();
+			this.add(c);
 
 		}
 	}
