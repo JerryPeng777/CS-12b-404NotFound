@@ -43,6 +43,9 @@ public class DrawingModel {
 
 			c = new NicoleCircle();
 			this.add(c);
+			
+			c = new ChengCircle();
+			this.add(c);
 
 		}
 	}
