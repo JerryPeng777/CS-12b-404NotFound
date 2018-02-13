@@ -50,7 +50,7 @@ public class DrawingModel {
 			c = new FrankCircle();
 			this.add(c);
 			
-			c = new RCircle();
+			c = new Rcircle();
 			this.add(c);
 			
 			c = new IsabelCircle();
