@@ -7,7 +7,7 @@ package pa03;
 * When their radius changed enough big, they will change to small
 */
 
-public class FrameRadiusCircle extends CircleShape{
+public class JerryCircle extends CircleShape{
 
   private double vRadius = 1.0;
 
@@ -15,7 +15,7 @@ public class FrameRadiusCircle extends CircleShape{
   * Creat radius changing balls and set their colors to green
   */
 
-  public FrameRadiusCircle(){
+  public JerryCircle(){
     super();
     this.color = new java.awt.Color(0, 200, 50, 150);
   }
