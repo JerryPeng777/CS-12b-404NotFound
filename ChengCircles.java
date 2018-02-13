@@ -2,8 +2,8 @@ package pa03;
 import java.awt.Graphics;
 import java.awt.Color;
 public class ChengCircles extends CircleShape{
+  
   private int a;
-
 
   public ChengCircles(){
     super();
@@ -20,6 +20,4 @@ public class ChengCircles extends CircleShape{
     g.setColor(Color.BLUE);
     g.drawRect( u,v,w+this.a,h+this.a);
   }
-
-
 }
