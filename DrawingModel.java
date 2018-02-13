@@ -44,10 +44,10 @@ public class DrawingModel {
 			c = new NicoleCircle();
 			this.add(c);
 			
-			c = new ChengCircle();
+			c = new ChengCircles();
 			this.add(c);
 			
-			c = new FrandkCircle();
+			c = new FrankCircle();
 			this.add(c);
 			
 			c = new RCircle();
